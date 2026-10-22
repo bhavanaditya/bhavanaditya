@@ -32,6 +32,15 @@ Day to day, I set coding standards, review code, mentor developers, plan technic
 - Run zero-downtime migrations and platform upgrades
 - Mentor developers and work with design, strategy and account teams across time zones
 
+## Awards
+
+| Year | Award | From |
+| --- | --- | --- |
+| 2025 | 🏆 **Star Achiever** | Mandy Technologies |
+| 2024 | 🏆 **Top Contributor** | Mandy Technologies |
+| 2023 | 🏆 **Excellence Award** | Mandy Technologies |
+| 2022 | 🏆 **Excellence Award** | Mandy Technologies |
+
 ## Skills
 
 | Area | Tools and practices |
