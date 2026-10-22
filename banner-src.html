@@ -1,0 +1,42 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1280px;height:320px;overflow:hidden}
+body{font-family:-apple-system,"SF Pro Display","Helvetica Neue",Arial,sans-serif;color:#f4f4f5;
+ background:radial-gradient(640px 420px at 92% -10%,#3a1170 0%,transparent 60%),radial-gradient(520px 320px at -5% 110%,#1d0b3a 0%,transparent 60%),linear-gradient(120deg,#0a0b10 0%,#11131c 55%,#0d0f16 100%);position:relative}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:40px 40px;
+ -webkit-mask-image:linear-gradient(90deg,#000 0%,rgba(0,0,0,.4) 60%,#000 100%)}
+.wrap{position:absolute;left:68px;top:0;bottom:0;width:660px;display:flex;flex-direction:column;justify-content:center}
+.eyebrow{font-weight:700;font-size:14px;letter-spacing:.24em;color:#a35cff;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;gap:12px}
+.eyebrow:before{content:"";width:30px;height:3px;background:#a35cff;border-radius:2px}
+h1{font-size:58px;font-weight:800;letter-spacing:-.025em;line-height:1}
+h1 small{font-size:22px;font-weight:700;color:#a1a1aa;letter-spacing:0;margin-left:10px;vertical-align:middle}
+h2{font-size:23px;font-weight:500;margin-top:14px;color:#d4d4d8;line-height:1.35}
+h2 span{background:linear-gradient(90deg,#c08bff,#8a1cff);-webkit-background-clip:text;color:transparent;font-weight:700}
+.meta{margin-top:22px;font-size:15px;color:#a1a1aa;display:flex;gap:16px;align-items:center}
+.meta b{color:#f4f4f5}
+.dot{width:4px;height:4px;border-radius:50%;background:#52525b}
+.card{position:absolute;right:68px;top:50%;transform:translateY(-50%);width:440px;border-radius:14px;background:rgba(18,20,30,.82);border:1px solid rgba(163,92,255,.28);box-shadow:0 20px 60px rgba(122,0,230,.18);overflow:hidden}
+.bar{display:flex;gap:7px;padding:12px 14px;border-bottom:1px solid rgba(255,255,255,.06)}
+.bar i{width:10px;height:10px;border-radius:50%;background:#3f3f46}
+.bar i:first-child{background:#a35cff}
+.code{padding:16px 20px;font:500 13.5px/1.75 "SF Mono",Menlo,monospace;color:#a1a1aa;white-space:pre}
+.k{color:#c08bff}.s{color:#86efac}.c{color:#52525b}
+</style></head><body>
+<div class="grid"></div>
+<div class="wrap">
+ <div class="eyebrow">Lead Software Engineer · CMS &amp; Frontend</div>
+ <h1>Bhavanaditya D R<small>M.E</small></h1>
+ <h2>Fast, accessible, maintainable websites on<br><span>WordPress &amp; HubSpot CMS.</span></h2>
+ <div class="meta"><span><b>10+</b> years</span><span class="dot"></span><span><b>200+</b> websites</span><span class="dot"></span><span><b>90+</b> PageSpeed</span><span class="dot"></span><span>Coimbatore, India</span></div>
+</div>
+<div class="card">
+ <div class="bar"><i></i><i></i><i></i></div>
+<div class="code"><span class="k">const</span> engineer = {
+  stack:   [<span class="s">'WordPress'</span>, <span class="s">'HubSpot'</span>, <span class="s">'React'</span>],
+  ships:   <span class="s">'CI/CD → zero-downtime'</span>,
+  cares:   [<span class="s">'Core Web Vitals'</span>, <span class="s">'a11y'</span>],
+  hosting: <span class="s">'Cloudflare · VPS · WP Engine'</span>,
+};</div>
+</div>
+</body></html>
