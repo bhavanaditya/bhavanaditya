@@ -1,4 +1,4 @@
-![Bhavanaditya D R, Lead Software Engineer](assets/banner.png)
+![Bhavanaditya D R, Lead Software Engineer](assets/profile-banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhavanaditya.com-7A00E6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bhavanaditya.com/)
 [![Blog](https://img.shields.io/badge/Blog-Writing-7A00E6?style=for-the-badge&logo=rss&logoColor=white)](https://www.bhavanaditya.com/blog)
@@ -40,12 +40,14 @@ I'm a WordPress developer at heart, focused on performance, scalability and clea
 **CMS and back-end**
 
 [![CMS and back-end](https://skillicons.dev/icons?i=wordpress,php,mysql,sqlite,prisma&perline=10)](https://www.bhavanaditya.com/skills)
+
 ![HubSpot](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 **DevOps and hosting**
 
 [![DevOps and hosting](https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,aws,cloudflare,linux,nginx,bash&perline=10)](https://www.bhavanaditya.com/skills)
+
 ![WP Engine](https://img.shields.io/badge/WP_Engine-0ECAD4?style=for-the-badge&logo=wpengine&logoColor=white)
 
 ## 💼 Experience
