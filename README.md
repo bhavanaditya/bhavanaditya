@@ -1,4 +1,4 @@
-![Bhavanaditya D R, Lead Software Engineer](assets/profile-banner.png)
+![Bhavanaditya D R, Lead Software Engineer](assets/header.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhavanaditya.com-7A00E6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bhavanaditya.com/)
 [![Blog](https://img.shields.io/badge/Blog-Writing-7A00E6?style=for-the-badge&logo=rss&logoColor=white)](https://www.bhavanaditya.com/blog)
@@ -16,9 +16,9 @@ I'm a WordPress developer at heart, focused on performance, scalability and clea
 - 🤝 Open to select consulting and full-time opportunities in front-end and WordPress engineering
 - ⚡ Fun fact: I treat my own personal site like production, with 2FA, passkeys and audit logs
 
-| 🗓️ 10+ years | 🌐 200+ websites | 🚀 90+ PageSpeed | 🏆 4 awards |
-| :---: | :---: | :---: | :---: |
-| building for the web | delivered | with passing Core Web Vitals | at Mandy Technologies |
+| 🗓️ 10+ years | 🏗️ 25+ fresh builds | 🌐 100+ websites | 🚀 90+ PageSpeed | 🏆 4 awards |
+| :---: | :---: | :---: | :---: | :---: |
+| building for the web | built from scratch | worked on | with passing Core Web Vitals | at Mandy Technologies |
 
 ## 🧰 What I can do for you
 
