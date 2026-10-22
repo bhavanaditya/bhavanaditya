@@ -1,29 +1,47 @@
-# Hi, I'm Bhavanaditya 👋
+![Bhavanaditya D R, Lead Software Engineer](assets/banner.png)
 
-**Lead Software Engineer and engineering lead for WordPress & HubSpot CMS** at [Mandy Technologies](https://www.mandytechnologies.com/), Coimbatore, India.
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhavanaditya.com-7A00E6?style=for-the-badge)](https://www.bhavanaditya.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-drbhavanaditya-7A00E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drbhavanaditya/)
+[![Email](https://img.shields.io/badge/Email-adityabhavan4%40gmail.com-7A00E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabhavan4@gmail.com)
 
-I build fast, secure, maintainable websites, and keep them running in production. Over 10+ years and 200+ websites, I've worked across the whole lifecycle: custom WordPress themes and plugins, Gutenberg blocks, HubSpot CMS builds, and the hosting, CI/CD and performance work behind them.
+## About me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhavanaditya.com-7A00E6?style=flat-square)](https://www.bhavanaditya.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-drbhavanaditya-7A00E6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drbhavanaditya/)
+I'm a **Lead Software Engineer** at [Mandy Technologies](https://www.mandytechnologies.com/) in Coimbatore, India. I lead engineering for fast, secure WordPress and HubSpot websites, from the first commit to production.
 
-## What I work on
+Day to day, I set coding standards, review code, mentor developers, plan technical work, and own hosting, deployments and releases. We build for [Vital](https://vitaldesign.com/), a digital agency in Portsmouth, NH, USA, and its clients worldwide.
 
-- **WordPress:** custom themes and plugins (OOP PHP), Gutenberg blocks, WooCommerce, WP-CLI automation
-- **HubSpot CMS:** themes, custom modules and templates
-- **Performance:** Core Web Vitals, caching, CDN and asset optimisation, with sites consistently at 90+ PageSpeed
-- **DevOps:** CI/CD with GitHub Actions and Bitbucket Pipelines, SSH, VPS, WP Engine, AWS
-- **Hosting:** DNS, SSL, Cloudflare and zero-downtime migrations
-- **Leadership:** code reviews, coding standards, technical planning, release management and mentoring developers
+| 10+ years | 200+ websites | 90+ PageSpeed |
+| :---: | :---: | :---: |
+| in web development | delivered | with passing Core Web Vitals |
 
-## Featured projects
+## Experience
 
-- **[DL Relocate DB](https://github.com/designslabz/dl-relocate-db)**: WordPress plugin that safely replaces URLs and text across the database during migrations, with AJAX progress, per-table summaries and detailed logs.
-- **[DesignsLabz Theme](https://github.com/designs-labz/designslabz-theme)**: developer-friendly WordPress theme built for Gutenberg, with native block support and an SCSS/Webpack build.
-- **[DL India Address Autofill](https://github.com/designs-labz/dl-india-address-autofill)**: WooCommerce plugin that fills in the Indian city and state at checkout from the PIN code.
-- **[DesignsLabz Tools](https://github.com/designs-labz/designslabz-tools)**: small plugin that tidies the WordPress admin and disables the theme and plugin file editors.
+| Role | Company | Dates |
+| --- | --- | --- |
+| **Lead Software Engineer**, CMS & Frontend / Hosting | Mandy Technologies | Jun 2026 – Present |
+| **Frontend Developer**, client-dedicated | Vital Design (USA), via Mandy Technologies | Jun 2020 – Present |
+| **Senior Frontend Developer** | Mandy Technologies | Jun 2020 – Jun 2026 |
+| **Software Developer** | ColorWhistle | Feb 2018 – May 2020 |
+| **Software Developer** | Aosta Software Technologies | Feb 2016 – Feb 2018 |
 
-## Tech stack
+**What I do as a lead**
+
+- Set coding standards and run code reviews across WordPress and HubSpot projects
+- Plan technical work and own releases through CI/CD (GitHub Actions, Bitbucket Pipelines)
+- Own hosting and production reliability: DNS, SSL, CDN, caching, Cloudflare, incident response
+- Run zero-downtime migrations and platform upgrades
+- Mentor developers and work with design, strategy and account teams across time zones
+
+## Skills
+
+| Area | Tools and practices |
+| --- | --- |
+| **WordPress** | Custom themes and plugins (OOP PHP), Gutenberg blocks, WooCommerce, WP-CLI |
+| **HubSpot CMS** | Themes, custom modules, templates |
+| **Frontend** | JavaScript, React, Angular, HTML5, SCSS, Webpack, REST APIs, accessibility (WCAG) |
+| **Performance** | Core Web Vitals, caching, CDN, image and asset optimisation, SEO |
+| **DevOps and hosting** | Git, GitHub Actions, Bitbucket Pipelines, SSH, VPS, WP Engine, AWS, Cloudflare |
+| **Leadership** | Code reviews, coding standards, mentoring, technical planning, release management |
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -36,6 +54,23 @@ I build fast, secure, maintainable websites, and keep them running in production
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-## Get in touch
+## Featured projects
 
-I'm open to WordPress, HubSpot and web performance projects. Reach me through [my website](https://www.bhavanaditya.com/contact) or on [LinkedIn](https://www.linkedin.com/in/drbhavanaditya/).
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [DL Relocate DB](https://github.com/designslabz/dl-relocate-db) | Safely replaces URLs and text across a WordPress database during migrations, with AJAX progress and detailed logs | PHP, Webpack |
+| [DesignsLabz Theme](https://github.com/designs-labz/designslabz-theme) | Developer-friendly WordPress theme built for Gutenberg, with native block support | PHP, SCSS, Webpack |
+| [DL India Address Autofill](https://github.com/designs-labz/dl-india-address-autofill) | Fills in Indian city and state at WooCommerce checkout from the PIN code | JavaScript, PHP |
+| [DesignsLabz Tools](https://github.com/designs-labz/designslabz-tools) | Tidies the WordPress admin and disables the theme and plugin file editors | PHP |
+
+## Education and certifications
+
+- **M.E., Computer Science**, Kalaignar Karunanidhi Institute of Technology · 2017 – 2019
+- **B.E., Computer Science**, Dr N.G.P. Institute of Technology · 2013 – 2016
+- **HubSpot CMS for Developers II: Best Practices**, HubSpot · 2025
+
+**Languages:** English, Tamil
+
+## Let's connect
+
+I'm open to conversations about engineering leadership, WordPress, HubSpot and web performance. Reach me through [my website](https://www.bhavanaditya.com/contact), on [LinkedIn](https://www.linkedin.com/in/drbhavanaditya/), or by [email](mailto:adityabhavan4@gmail.com).
